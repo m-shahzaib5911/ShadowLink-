@@ -3,9 +3,29 @@
 
   <h1>ShadowLink</h1>
 
-  <p><strong>Secure. Anonymous. Ephemeral.</strong></p>
-  <p>An end-to-end encrypted messaging platform with zero-knowledge architecture — built for those who take privacy seriously.</p>
+  <p><em>Secure. Anonymous. Ephemeral. Leave No Trace.</em></p>
+
+  ![last commit](https://img.shields.io/github/last-commit/m-shahzaib5911/ShadowLink-)
+  ![languages](https://img.shields.io/github/languages/count/m-shahzaib5911/ShadowLink-)
+  ![top language](https://img.shields.io/github/languages/top/m-shahzaib5911/ShadowLink-)
+  ![license](https://img.shields.io/github/license/m-shahzaib5911/ShadowLink-)
+
+  <br/>
+
+  **Built with the tools and technologies:**
+
+  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
 </div>
+
+---
+
+> **ShadowLink** — Because some conversations were never meant to be stored. 🔒🕶️
+>
+> *For personal privacy and authorized use only.*
 
 ---
 
@@ -27,15 +47,6 @@ No accounts. No logs. No traces.
 | 🛡️ **Hardened Backend** | Enforces UUID v4 validation, payload size restrictions, IP-based rate limiting, and strict Content Security Policies (CSP). |
 | ⚡ **Lightweight Polling** | Near real-time message delivery via efficient frontend polling — without the complexity of persistent WebSocket connections. |
 | 🎨 **Terminal-Inspired UI** | An immersive dark-terminal interface built with custom React components and CSS. |
-
----
-
-## Technology Stack
-
-- **Frontend:** React, TypeScript, CSS
-- **Encryption:** Web Cryptography API — `AES-GCM`, `PBKDF2`
-- **Backend:** PHP 8+
-- **Database:** MySQL / MariaDB (via PDO)
 
 ---
 
