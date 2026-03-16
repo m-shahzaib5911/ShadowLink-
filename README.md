@@ -21,7 +21,7 @@
 
 ---
 
-> **ShadowLink** — Because some conversations were never meant to be stored. 🔒🕶️
+> **ShadowLink** — Because some conversations were never meant to be stored.
 >
 > *For personal privacy and authorized use only.*
 
