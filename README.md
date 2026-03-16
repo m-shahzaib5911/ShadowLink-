@@ -61,5 +61,7 @@ ShadowLink's security model is built around the principle that **the server shou
 ---
 
 <div align="center">
+  <img src="https://raw.githubusercontent.com/m-shahzaib5911/ShadowLink-/main/Screenshot 2026-03-16 125631.png" alt="ShadowLink Logo" width="900"/>
   <sub>Built with a focus on privacy and security by <strong>Code_Hunter</strong> (<a href="https://github.com/m-shahzaib5911">m-shahzaib5911</a>).</sub>
+   
 </div>
