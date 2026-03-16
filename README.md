@@ -1,6 +1,4 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/m-shahzaib5911/ShadowLink-/main/frontend/public/logo512.png" alt="ShadowLink Logo" width="150"/>
-
   <h1>ShadowLink</h1>
 
   <p><em>Secure. Anonymous. Ephemeral. Leave No Trace.</em></p>
